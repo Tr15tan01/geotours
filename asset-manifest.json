@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/geotours/static/css/main.6876c03e.css",
-    "main.js": "/geotours/static/js/main.944ccf14.js",
-    "static/js/787.71d1eafe.chunk.js": "/geotours/static/js/787.71d1eafe.chunk.js",
-    "index.html": "/geotours/index.html",
-    "main.6876c03e.css.map": "/geotours/static/css/main.6876c03e.css.map",
-    "main.944ccf14.js.map": "/geotours/static/js/main.944ccf14.js.map",
-    "787.71d1eafe.chunk.js.map": "/geotours/static/js/787.71d1eafe.chunk.js.map"
+    "main.css": "/static/css/main.6876c03e.css",
+    "main.js": "/static/js/main.86c0fbad.js",
+    "static/js/787.71d1eafe.chunk.js": "/static/js/787.71d1eafe.chunk.js",
+    "index.html": "/index.html",
+    "main.6876c03e.css.map": "/static/css/main.6876c03e.css.map",
+    "main.86c0fbad.js.map": "/static/js/main.86c0fbad.js.map",
+    "787.71d1eafe.chunk.js.map": "/static/js/787.71d1eafe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6876c03e.css",
-    "static/js/main.944ccf14.js"
+    "static/js/main.86c0fbad.js"
   ]
 }
