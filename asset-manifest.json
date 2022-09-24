@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/geotours/static/css/main.6876c03e.css",
-    "main.js": "/geotours/static/js/main.c45c301c.js",
+    "main.js": "/geotours/static/js/main.c2256535.js",
     "static/js/787.71d1eafe.chunk.js": "/geotours/static/js/787.71d1eafe.chunk.js",
     "index.html": "/geotours/index.html",
     "main.6876c03e.css.map": "/geotours/static/css/main.6876c03e.css.map",
-    "main.c45c301c.js.map": "/geotours/static/js/main.c45c301c.js.map",
+    "main.c2256535.js.map": "/geotours/static/js/main.c2256535.js.map",
     "787.71d1eafe.chunk.js.map": "/geotours/static/js/787.71d1eafe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6876c03e.css",
-    "static/js/main.c45c301c.js"
+    "static/js/main.c2256535.js"
   ]
 }
