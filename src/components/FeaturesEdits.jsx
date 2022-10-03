@@ -1,7 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import Form from 'react-bootstrap/Form';
-import Button from 'react-bootstrap/button'
-import Nav from 'react-bootstrap/nav'
+import Button from 'react-bootstrap/Button'
+import Nav from 'react-bootstrap/Nav'
 import { useLayoutEffect, useRef } from 'react';
 import { useState } from 'react';
 

@@ -1,7 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import Form from 'react-bootstrap/Form';
-import Button from 'react-bootstrap/button'
-import Nav from 'react-bootstrap/nav'
+import Button from 'react-bootstrap/Button'
+import Nav from 'react-bootstrap/Nav'
 import { useLayoutEffect, useRef } from 'react';
 import { useState } from 'react';
 
@@ -60,7 +60,7 @@ function MarketingEdits(props) {
             {/* <h4 className="text-center">Edit {props.data} Section</h4> */}
             <h4 className="text-center">Edit Marketing Section</h4>
             <Form id="myForm" data-netlify="true" ref={formRef} onSubmit={handleSubmit}>
-                {dummyInfo.map((item, idx) => {
+                {marketingInfo.map((item, idx) => {
                     return (
                         <>
                             <Form.Group className="mb-1">
