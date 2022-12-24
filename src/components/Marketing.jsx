@@ -10,7 +10,7 @@ export default function Marketing() {
     const buttonStyles = { width: 60, height: 60, color: 'white', margin: '33 auto' }
     const marketingIcons = [<GiCommercialAirplane style={buttonStyles} />, <RiHotelLine style={buttonStyles} />, <GiSurferVan style={buttonStyles} />]
 
-    console.log(marketingIcons[0])
+    // console.log(marketingIcons[0])
 
 
     const [marketingInfo, setMarketingInfo] = useState('')
